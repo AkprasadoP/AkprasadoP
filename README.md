@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React & Next.js**
+- I’m currently learning **Next.js**
 
-- 💬 Ask me about **Javascript**
+- Ask me about **GoLang**
 
-- 📫 How to reach me **akprasad07mm@gmail.com**
+- How to reach me **akprasad07mm@gmail.com**
 
-- ⚡ Fun fact **I have an adventurous palate and enjoy exploring diverse cuisines from around the world.**
+- fact **Coding will soon be as important as reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
