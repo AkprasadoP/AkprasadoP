@@ -31,11 +31,11 @@ const ashish = {
 };
 ```
 
-* 🔭 Built **production-grade AI security platforms**
-* 🔐 Worked on **phishing detection & deepfake voice analysis**
-* 🧠 Experience with **RAG systems, AI explainability & inference pipelines**
-* ⚙️ Strong focus on **backend APIs, data modeling & system design**
-* 🎯 Goal: Build **impactful software that survives production**
+*  Built **production-grade AI security platforms**
+*  Worked on **phishing detection & deepfake voice analysis**
+*  Experience with **RAG systems, AI explainability & inference pipelines**
+*  Strong focus on **backend APIs, data modeling & system design**
+*  Goal: Build **impactful software that survives production**
 
 ---
 
@@ -45,7 +45,7 @@ const ashish = {
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    🚀 FULL-STACK ENGINEER                   ║
+║                     FULL-STACK ENGINEER                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -150,16 +150,16 @@ class AIExpertise:
 
 ---
 
-## 🧩 Featured Work
+##  Featured Work
 
-### 🔐 **ATF CyberX — AI Security Platform**
+###  **ATF CyberX — AI Security Platform**
 * AI-based phishing email detection
 * Deepfake voice detection (audio ML)
 * Real-time **Chrome Extension** for Gmail
 * Multi-language support (EN / JP)
 * Enterprise-ready dashboards & analytics
 
-### 🚀 **AI-Powered SaaS Platforms**
+###  **AI-Powered SaaS Platforms**
 * Secure auth flows with Clerk
 * Media pipelines using Cloudinary
 * Scalable APIs with Prisma + MongoDB
@@ -167,7 +167,7 @@ class AIExpertise:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -184,18 +184,18 @@ class AIExpertise:
 
 ---
 
-## 📈 Contribution Activity (Animated)
+##  Contribution Activity (Animated)
 
 ![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akprasadop&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🎯 What I'm Working On Next
+##  What I'm Working On Next
 
-* 🚀 Building **AI-first SaaS products**
-* ⚙️ Going deeper into **Go & backend systems**
-* 🔐 Exploring **security × AI intersections**
-* ✍️ Sharing real-world engineering learnings
+*  Building **AI-first SaaS products**
+*  Going deeper into **Go & backend systems**
+*  Exploring **security × AI intersections**
+*  Sharing real-world engineering learnings
 
 ---
 
