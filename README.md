@@ -1,21 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Ashish%20Prasad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Security%20Focused&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F75FE,50:8A0000,100:E62429&height=230&section=header&text=Ashish%20Prasad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20Software%20Engineer&descAlignY=58&descSize=20"/>
 
-<!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=SDE+Intern+%40+Classplus;Backend-leaning+Full-Stack+Engineer;Mobile+Security+%2B+Reverse+Engineering;Clean+Code+%7C+Scalable+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=650&lines=SDE+Intern+%40+Classplus;Web-Slinging+Through+Next.js+%2B+Cloudflare+Workers;Mobile+Security+%2B+Reverse+Engineering;With+Great+Code+Comes+Great+Responsibility" />
 
 <br/>
 
 <p>
-<a href="https://akprasad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ashish-prasad-b22916256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:akprasad07mm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/Akprasad14"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://akprasad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashish-prasad-b22916256"><img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:akprasad07mm@gmail.com"><img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/Akprasad14"><img src="https://img.shields.io/badge/LeetCode-1F75FE?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=akprasadop&style=for-the-badge&color=8e2de2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/akprasadop?style=for-the-badge&color=4a00e0&labelColor=black"/>
+<img src="https://komarev.com/ghpvc/?username=akprasadop&style=for-the-badge&color=e62429&label=WEB+SWINGS+HERE"/>
+<img src="https://img.shields.io/github/followers/akprasadop?style=for-the-badge&color=1f75fe&labelColor=black"/>
 
 </div>
 
@@ -25,69 +24,78 @@
 
 ---
 
-## 🧠 About Me
+## 🕸️ Behind the Mask
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+By day: a B.Tech CSE grad from IIITDM Jabalpur shipping product at an edtech company. By night (and also by day, honestly): digging through APKs, bypassing SSL pins, and figuring out how apps *actually* work under the hood.
 
 ```ts
-const ashish = {
-    education: "B.Tech CSE, IIITDM Jabalpur (Graduated)",
-    role: "Software Engineer Intern @ Classplus",
-    focus: ["Full-stack product engineering", "Mobile security research", "Scalable backend architecture"],
-    experience: ["Internal tooling & dashboards", "Android app security research", "Reverse engineering", "AI-powered platforms"],
-    mindset: "Ship real products, not demos"
+const alterEgo = {
+    civilianName: "Ashish Prasad",
+    origin: "B.Tech CSE, IIITDM Jabalpur (Graduated)",
+    currentGig: "SDE Intern @ Classplus",
+    powers: [
+        "Full-stack product engineering",
+        "Mobile security research & instrumentation",
+        "Reverse-engineering app internals",
+        "Turning chaos into shipped features"
+    ],
+    motto: "Great code comes with great responsibility"
 };
 ```
 
-*  Building **internal tools and dashboards** at Classplus (Next.js, Prisma, PostgreSQL, Cloudflare Workers)
-*  Conducting **mobile security research** — SSL pinning bypass, Frida instrumentation, Play Integrity attestation
-*  Reverse-engineered app internals (video templates, animation pipelines, FFmpeg compositing) to inform new product builds
-*  Active competitive programmer on **LeetCode**, hundreds of problems solved
-*  Prior internships: **AI Talent Force (Japan, remote)**, **BlueStack**
-*  Goal: Build **impactful software that survives production**
+* 🏗️ Building **internal tools & dashboards** at Classplus — Next.js, Prisma, PostgreSQL, Cloudflare Workers
+* 🔍 Hunting through Android internals — SSL pinning bypass, Frida instrumentation, Play Integrity attestation
+* 🎥 Reverse-engineered video/animation pipelines (FFmpeg compositing) to inform new product builds
+* 🧠 Active competitive programmer on **LeetCode** — hundreds of problems down
+* 🌏 Past lives: **AI Talent Force (Japan, remote)**, **BlueStack**
+* 🎯 Mission: build things that survive contact with production
 
 ---
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🛠️ Tech Arsenal
+## 🧰 The Web-Shooter Loadout
 
 <div align="center">
 
-### ⚡ Full-Stack / Backend Engineer ⚡
+### ⚡ Formula engineered for full-stack combat ⚡
 
 </div>
 
-### <img src="https://skillicons.dev/icons?i=react" width="25"/> **Frontend**
+### 🕷️ **Front-End Webs**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,framer" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,framer" />
 </p>
 
 ```javascript
-const frontend = {
+const frontEndWebbing = {
   frameworks: ["Next.js (App Router)", "React"],
   languages: ["TypeScript", "JavaScript"],
   styling: ["TailwindCSS", "shadcn/ui", "Framer Motion"],
-  expertise: "Building responsive, production-grade dashboards & UIs"
+  tensileStrength: "Handles production traffic without snapping"
 };
 ```
 
-### <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> **Backend Engineering**
+### 🏢 **Backend — The Real Web-Slinging**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,fastapi" />
 </p>
 
+> Cloudflare **Workers**. Yes, I noticed too. Felt right at home.
+
 ```go
-type BackendSkills struct {
-    Runtime     []string `json:"runtime"`
-    Frameworks  []string `json:"frameworks"`
-    Languages   []string `json:"languages"`
-    Focus       string   `json:"focus"`
+type BackendGadgets struct {
+    Runtime    []string `json:"runtime"`
+    Frameworks []string `json:"frameworks"`
+    Languages  []string `json:"languages"`
+    Focus      string   `json:"focus"`
 }
 
-skills := BackendSkills{
+loadout := BackendGadgets{
     Runtime:    []string{"Node.js", "Bun"},
     Frameworks: []string{"Express.js", "FastAPI"},
     Languages:  []string{"Go", "TypeScript"},
@@ -95,24 +103,24 @@ skills := BackendSkills{
 }
 ```
 
-### <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> **Database & Storage**
+### 🗄️ **The Web-Fluid Storage**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,redis" />
 </p>
 
 ```sql
--- Database Arsenal
-SELECT 
-  'MongoDB' as NoSQL,
-  'PostgreSQL' as Relational,
-  'Prisma' as ORM,
-  'Redis' as Cache
-FROM tech_stack 
+-- Chemical formula for the storage layer
+SELECT
+  'MongoDB'    AS NoSQL,
+  'PostgreSQL' AS Relational,
+  'Prisma'     AS ORM,
+  'Redis'      AS Cache
+FROM tech_stack
 WHERE expertise = 'Data Modeling & Performance';
 ```
 
-### <img src="https://skillicons.dev/icons?i=docker" width="25"/> **DevOps & Infrastructure**
+### 🏙️ **Infra — Swinging Between Rooftops (a.k.a. Regions)**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,aws" />
@@ -125,33 +133,33 @@ infrastructure:
   database_hosting: Supabase, GCP Cloud SQL
   auth: NextAuth.js (Google OAuth), Clerk
   storage: Cloudinary
-  monitoring: Real-time analytics
+  spidey_sense: Real-time monitoring & alerting
 ```
 
-### <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" width="25"/> **Security & Research**
+### 🕵️ **Spidey-Sense: Security & Research**
 
 <div align="center">
 
 ```python
-class SecurityResearch:
+class SpideySense:
     def __init__(self):
-        self.specialties = [
+        self.tingles_for = [
             "🔐 SSL/certificate pinning bypass (Frida, OkHttp)",
-            "📱 Android app instrumentation & USB debug detection",
+            "📱 Android instrumentation & USB debug detection",
             "🧩 Google Play Integrity attestation analysis",
-            "🎥 App reverse-engineering (video/animation pipelines, FFmpeg)",
+            "🎬 App reverse-engineering (video/animation pipelines, FFmpeg)",
             "🤖 AI-powered security detection & explainability"
         ]
 
-    def current_focus(self):
-        return "Turning security research into actionable, documented findings"
+    def when_it_tingles(self):
+        return "Chase it down, document it, ship the fix"
 ```
 
 </div>
 
 <div align="center">
 
-**🎯 Always learning, always building, always shipping** 
+**🕸️ Always swinging, always shipping, never late to save the day**
 
 </div>
 
@@ -159,20 +167,20 @@ class SecurityResearch:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🚀 Featured Work
+## 🏙️ Cases Cracked
 
 ### **LaunchPad — Internal Proposal Tracker @ Classplus**
-* Built end-to-end proposal tracking & approval dashboard for employees to submit and review Experiment/New Business proposals
+* Built the end-to-end proposal tracking & approval dashboard for teams submitting Experiment/New Business proposals
 * Stack: Next.js 15 (App Router), Prisma, Supabase Postgres → GCP Cloud SQL, NextAuth.js, Cloudflare Workers via OpenNext
-* Designed strict status workflow (Draft → In Review → Feedback → Accepted/Rejected/Expired) with post-MVP implementation tracking
-* Resolved production infra issues: SSL/Hyperdrive conflicts, private-IP-only GCP DB access from Cloudflare Workers
+* Engineered the strict status workflow (Draft → In Review → Feedback → Accepted/Rejected/Expired) with post-MVP implementation tracking
+* Talked down a nasty villain: SSL/Hyperdrive conflicts and private-IP-only GCP DB access from Cloudflare Workers
 
 ### **Mobile Security Research @ Classplus**
-* Investigated SSL pinning bypass techniques (Frida, OkHttp certificate pinning), Play Integrity attestation, and USB debugging detection on Android
-* Authored detailed investigation reports with timelines, API inventories, and prioritized recommendations for future researchers
+* Investigated SSL pinning bypass (Frida, OkHttp certificate pinning), Play Integrity attestation, and USB debugging detection on Android
+* Filed the case reports — timelines, API endpoint inventories, prioritized recommendations for the next researcher on the beat
 
 ### **App Reverse-Engineering — Video/Animation Systems**
-* Reverse-engineered a video template and animation system to inform a new product build
+* Cracked open a video template and animation system to inform a new product build
 * Documented MP4 animation baking, FFmpeg compositing pipelines, and platform-specific implementations (React Native, Web, Kotlin)
 
 ### **ATF CyberX — AI Security Platform**
@@ -183,7 +191,7 @@ class SecurityResearch:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📊 GitHub Analytics
+## 📊 Daily Bugle Stats
 
 <div align="center">
 
@@ -202,7 +210,7 @@ class SecurityResearch:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📈 Contribution Activity
+## 📈 Patrol Log
 
 <div align="center">
 
@@ -210,21 +218,21 @@ class SecurityResearch:
 
 </div>
 
-## 🔭 What I'm Working On Next
+## 🌆 Next Patrol Route
 
-*  Shipping internal tools & production features at Classplus
-*  Going deeper into **Go & backend systems**
-*  Exploring **security × AI intersections**
-*  Prepping for SDE new-grad roles
+* 🏗️ Shipping internal tools & production features at Classplus
+* 🐹 Going deeper into **Go & backend systems**
+* 🧠 Exploring **security × AI intersections**
+* 🎓 Prepping for SDE new-grad roles
 
 ---
 
 <div align="center">
 
-### 💡 *"Build things that actually survive production."*
+### 🕸️ *"With great code comes great responsibility."*
 
-Let's collaborate & ship 🚀
+Swing by, let's build something 🕷️
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:8A0000,100:1F75FE&height=120&section=footer"/>
 
 </div>
