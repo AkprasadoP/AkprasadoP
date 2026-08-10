@@ -24,7 +24,7 @@
 
 ---
 
-## 🕸️ Behind the Mask
+## <img src="https://api.iconify.design/mdi/spider-web.svg?color=%23E62429" width="26"/> Behind the Mask
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -45,26 +45,26 @@ const alterEgo = {
 };
 ```
 
-* 🏗️ Building **internal tools & dashboards** at Classplus — Next.js, Prisma, PostgreSQL, Cloudflare Workers
-* 🔍 Hunting through Android internals — SSL pinning bypass, Frida instrumentation, Play Integrity attestation
-* 🎥 Reverse-engineered video/animation pipelines (FFmpeg compositing) to inform new product builds
-* 🧠 Active competitive programmer on **LeetCode** — hundreds of problems down
-* 🌏 Past lives: **AI Talent Force (Japan, remote)**, **BlueStack**
-* 🎯 Mission: build things that survive contact with production
+* Building **internal tools & dashboards** at Classplus — Next.js, Prisma, PostgreSQL, Cloudflare Workers
+* Hunting through Android internals — SSL pinning bypass, Frida instrumentation, Play Integrity attestation
+* Reverse-engineered video/animation pipelines (FFmpeg compositing) to inform new product builds
+* Active competitive programmer on **LeetCode** — hundreds of problems down
+* Past lives: **AI Talent Force (Japan, remote)**, **BlueStack**
+* Mission: build things that survive contact with production
 
 ---
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🧰 The Web-Shooter Loadout
+## <img src="https://api.iconify.design/mdi/toolbox-outline.svg?color=%231F75FE" width="26"/> The Web-Shooter Loadout
 
 <div align="center">
 
-### ⚡ Formula engineered for full-stack combat ⚡
+### Formula engineered for full-stack combat
 
 </div>
 
-### 🕷️ **Front-End Webs**
+### <img src="https://api.iconify.design/mdi/code-tags.svg?color=%23E62429" width="20"/> **Front-End Webs**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,framer" />
@@ -79,7 +79,7 @@ const frontEndWebbing = {
 };
 ```
 
-### 🏢 **Backend — The Real Web-Slinging**
+### <img src="https://api.iconify.design/mdi/server-outline.svg?color=%231F75FE" width="20"/> **Backend — The Real Web-Slinging**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,fastapi" />
@@ -103,7 +103,7 @@ loadout := BackendGadgets{
 }
 ```
 
-### 🗄️ **The Web-Fluid Storage**
+### <img src="https://api.iconify.design/mdi/database-outline.svg?color=%23E62429" width="20"/> **The Web-Fluid Storage**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,redis" />
@@ -120,7 +120,7 @@ FROM tech_stack
 WHERE expertise = 'Data Modeling & Performance';
 ```
 
-### 🏙️ **Infra — Swinging Between Rooftops (a.k.a. Regions)**
+### <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%231F75FE" width="20"/> **Infra — Swinging Between Rooftops (a.k.a. Regions)**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,aws" />
@@ -136,7 +136,7 @@ infrastructure:
   spidey_sense: Real-time monitoring & alerting
 ```
 
-### 🕵️ **Spidey-Sense: Security & Research**
+### <img src="https://api.iconify.design/mdi/shield-search.svg?color=%23E62429" width="20"/> **Spidey-Sense: Security & Research**
 
 <div align="center">
 
@@ -144,11 +144,11 @@ infrastructure:
 class SpideySense:
     def __init__(self):
         self.tingles_for = [
-            "🔐 SSL/certificate pinning bypass (Frida, OkHttp)",
-            "📱 Android instrumentation & USB debug detection",
-            "🧩 Google Play Integrity attestation analysis",
-            "🎬 App reverse-engineering (video/animation pipelines, FFmpeg)",
-            "🤖 AI-powered security detection & explainability"
+            "SSL/certificate pinning bypass (Frida, OkHttp)",
+            "Android instrumentation & USB debug detection",
+            "Google Play Integrity attestation analysis",
+            "App reverse-engineering (video/animation pipelines, FFmpeg)",
+            "AI-powered security detection & explainability"
         ]
 
     def when_it_tingles(self):
@@ -159,7 +159,7 @@ class SpideySense:
 
 <div align="center">
 
-**🕸️ Always swinging, always shipping, never late to save the day**
+**Always swinging, always shipping, never late to save the day**
 
 </div>
 
@@ -167,20 +167,20 @@ class SpideySense:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🏙️ Cases Cracked
+## <img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%231F75FE" width="26"/> Cases Cracked
 
 ### **LaunchPad — Internal Proposal Tracker @ Classplus**
 * Built the end-to-end proposal tracking & approval dashboard for teams submitting Experiment/New Business proposals
 * Stack: Next.js 15 (App Router), Prisma, Supabase Postgres → GCP Cloud SQL, NextAuth.js, Cloudflare Workers via OpenNext
 * Engineered the strict status workflow (Draft → In Review → Feedback → Accepted/Rejected/Expired) with post-MVP implementation tracking
-* Talked down a nasty villain: SSL/Hyperdrive conflicts and private-IP-only GCP DB access from Cloudflare Workers
+* Resolved production infra issues: SSL/Hyperdrive conflicts and private-IP-only GCP DB access from Cloudflare Workers
 
 ### **Mobile Security Research @ Classplus**
 * Investigated SSL pinning bypass (Frida, OkHttp certificate pinning), Play Integrity attestation, and USB debugging detection on Android
-* Filed the case reports — timelines, API endpoint inventories, prioritized recommendations for the next researcher on the beat
+* Authored detailed case reports — timelines, API endpoint inventories, prioritized recommendations for the next researcher on the beat
 
 ### **App Reverse-Engineering — Video/Animation Systems**
-* Cracked open a video template and animation system to inform a new product build
+* Reverse-engineered a video template and animation system to inform a new product build
 * Documented MP4 animation baking, FFmpeg compositing pipelines, and platform-specific implementations (React Native, Web, Kotlin)
 
 ### **ATF CyberX — AI Security Platform**
@@ -191,16 +191,16 @@ class SpideySense:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📊 Daily Bugle Stats
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23E62429" width="26"/> Daily Bugle Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akprasadop&show_icons=true&theme=tokyonight&count_private=true&border_radius=10"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akprasadop&layout=compact&theme=tokyonight&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akprasadop&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akprasadop&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akprasadop&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akprasadop&theme=tokyonight&border_radius=10&cache_seconds=86400)](https://git.io/streak-stats)
 
 <br/>
 
@@ -210,7 +210,7 @@ class SpideySense:
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 📈 Patrol Log
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%231F75FE" width="26"/> Patrol Log
 
 <div align="center">
 
@@ -218,20 +218,20 @@ class SpideySense:
 
 </div>
 
-## 🌆 Next Patrol Route
+## <img src="https://api.iconify.design/mdi/map-marker-path.svg?color=%23E62429" width="26"/> Next Patrol Route
 
-* 🏗️ Shipping internal tools & production features at Classplus
-* 🐹 Going deeper into **Go & backend systems**
-* 🧠 Exploring **security × AI intersections**
-* 🎓 Prepping for SDE new-grad roles
+* Shipping internal tools & production features at Classplus
+* Going deeper into **Go & backend systems**
+* Exploring **security × AI intersections**
+* Prepping for SDE new-grad roles
 
 ---
 
 <div align="center">
 
-### 🕸️ *"With great code comes great responsibility."*
+### *"With great code comes great responsibility."*
 
-Swing by, let's build something 🕷️
+Swing by, let's build something
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:8A0000,100:1F75FE&height=120&section=footer"/>
 
